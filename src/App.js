@@ -7,8 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         branch 1 to create react app
+
+<p>        react app to list cricket world cup squads
+
         </p>
         <a
           className="App-link"
